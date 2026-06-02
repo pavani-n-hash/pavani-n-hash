@@ -1,59 +1,48 @@
-<div align="center">
 
-  <!-- Wide Attractive Coding GIF -->
-  <img src="<img width="1920" height="732" alt="173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a" src="https://github.com/user-attachments/assets/7c6847ed-441b-4d29-ae2c-58f72e642066" />
+![MasterHead]([https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+
+<h1 align="center"><img src="[https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png)" width="100px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+Durgeshwar+Kumar+Shaw;Web-Developer;OPEN+SOURCE;CODING)](https://git.io/typing-svg)
 
 
-  <a href="[https://github.com/YOUR_USERNAME](https://github.com/pavani-n-hash)">
-    <img src="https://img.shields.io/github/followers/pavani-n-hash?label=Followers&style=social" alt="Followers"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="Durgeshwar-AI" /> </p>
 
-</div>
 
----
+<h3 align="left">Languages</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,java,typescript" />
 
-### 🚀 About Me
-- 🔭 Currently building **AI-powered projects** and full-stack applications
-- 🌱 Learning **System Design, Cloud (AWS), and Advanced DSA**
-- 💡 Passionate about **AI/ML, Web Development & Problem Solving**
-- 🎯 Goal: Secure **20+ LPA** placement in 2027
-- 📍 Bangalore, India
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
----
-
-### 🔥 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
-
----
-
-### 📌 Pinned Projects
-*(Add your actual projects here once built)*
-
----
+<h3 align="left">Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=materialui,react,bootstrap,tailwind,next,nodejs,expressjs,mongodb,docker" />
 
 <div align="center">
-  <strong>"Building in public. Learning in public. Growing every day."</strong>
+<img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">  
 </div>
+
+<h2 align="center">⚡ Contributions Graph ⚡</h2>
+<br>
+<img src="https://ssr-contributions-svg.vercel.app/_/Durgeshwar-AI?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=50&animation_duration=3&animation_loop=true&theme=blue&widget_size=Small&dark=true&format=svg" alt="3D Contribution Chart" width="100%">
+
+<h2 align="center">⚡ Statistics ⚡</h2>
+<br>
+<div align="center">
+  <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Durgeshwar-AI&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <br/>
+  
+[![Durgeshwar-AI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html,ejs,css&show_icons=true&hide_border=true&layout=compact)](https://github.com/Durgeshwar-AI)
+</div>
+
+# 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=Durgeshwar-AI&theme=onestar&no-frame=true" width="800"/>
+
+
+<br/><br/>
+
+<h3 align="left">Holopin Badges</h3>
+<a href="https://holopin.io/@durgeshwarai">
+    <img src="https://holopin.me/durgeshwarai" alt="An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile">
+</a>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&locale=en&theme=radical" alt="Durgeshwar-AI" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgeshwar-AI&theme=radical" alt="Durgeshwar-AI" /></p>-->
