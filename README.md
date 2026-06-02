@@ -2,15 +2,7 @@
 
   <!-- Wide Attractive Coding GIF -->
   <img src="<img width="1920" height="732" alt="173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a" src="https://github.com/user-attachments/assets/7c6847ed-441b-4d29-ae2c-58f72e642066" />
-" alt="Coding Animation"/>
 
-  <h1>Hi 👋, I'm Pavani</h1>
-  <h3>3rd Year CST Student @ Dayananda Sagar University, Bangalore</h3>
-  
-  <p>
-    Passionate about building real-world applications with <strong>AI + Full-Stack</strong>. 
-    Actively preparing for <strong>20+ LPA</strong> placements through consistent project building and problem solving.
-  </p>
 
   <a href="[https://github.com/YOUR_USERNAME](https://github.com/pavani-n-hash)">
     <img src="https://img.shields.io/github/followers/pavani-n-hash?label=Followers&style=social" alt="Followers"/>
