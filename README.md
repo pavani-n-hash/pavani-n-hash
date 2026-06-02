@@ -3,10 +3,10 @@
 
 <h1 align="center"><img src="[https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png)" width="100px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+Durgeshwar+Kumar+Shaw;Web-Developer;OPEN+SOURCE;CODING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+Pavani+Choudary;Web-Developer;OPEN+SOURCE;CODING)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="Durgeshwar-AI" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="Pavani" /> </p>
 
 
 <h3 align="left">Languages</h3>
@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=materialui,react,bootstrap,tailwind,next,nodejs,expressjs,mongodb,docker" />
 
 <div align="center">
-<img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">  
+<img src="https://github.com/pavani-n-hash/pavani-n-hash/blob/output/github-contribution-grid-snake.svg" alt="light">  
 </div>
 
 <h2 align="center">⚡ Contributions Graph ⚡</h2>
@@ -30,7 +30,7 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
   <br/>
   
-[![Durgeshwar-AI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html,ejs,css&show_icons=true&hide_border=true&layout=compact)](https://github.com/Durgeshwar-AI)
+[![Pavani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html,ejs,css&show_icons=true&hide_border=true&layout=compact)](https://github.com/pavani-n-hash)
 </div>
 
 # 🏆 GitHub Trophies
