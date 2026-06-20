@@ -39,7 +39,7 @@
 ## 🛠️ Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,materialui,bootstrap,tailwind,nodejs,expressjs,mongodb,docker" alt="Frameworks and tools" />
+  <img src="https://skillicons.dev/icons?i=react,next,chakraui,tailwind,nodejs,expressjs,mongodb,docker" alt="Frameworks and tools" />
 </p>
 
 ---
