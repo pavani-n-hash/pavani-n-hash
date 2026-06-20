@@ -1,48 +1,95 @@
+<!-- Master Head -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Master Head" />
+</p>
 
-![MasterHead]([https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+<h1 align="center">
+  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px" alt="Hi" />
+</h1>
 
-<h1 align="center"><img src="[https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png)" width="100px"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&pause=1000&color=000000&center=true&vCenter=true&width=800&height=80&lines=I+am+Pavani+Choudary;Web+Developer;Open+Source+Enthusiast;Coding+Everyday" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+Pavani+Choudary;Web-Developer;OPEN+SOURCE;CODING)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="Pavani" /> </p>
+## 👩‍💻 About Me
 
+- 🌍 From Chennai, Tamil Nadu.
+- 💻 Passionate **web** developer & open‑source contributor.
+- 🚀 I enjoy building clean UIs and scalable full‑stack apps.
+- 📚 Always learning something new in JavaScript, TypeScript, and backend tech.
 
-<h3 align="left">Languages</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,java,typescript" />
+---
 
-<h3 align="left">Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=materialui,react,bootstrap,tailwind,next,nodejs,expressjs,mongodb,docker" />
+## 🧩 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,py,java" alt="Languages" />
+</p>
+
+---
+
+## 🛠️ Frameworks & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,materialui,bootstrap,tailwind,nodejs,expressjs,mongodb,docker" alt="Frameworks and tools" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github.com/pavani-n-hash/pavani-n-hash/blob/output/github-contribution-grid-snake.svg" alt="light">  
+  <img src="https://github.com/pavani-n-hash/pavani-n-hash/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
-<h2 align="center">⚡ Contributions Graph ⚡</h2>
-<br>
-<img src="https://ssr-contributions-svg.vercel.app/_/Durgeshwar-AI?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=50&animation_duration=3&animation_loop=true&theme=blue&widget_size=Small&dark=true&format=svg" alt="3D Contribution Chart" width="100%">
+---
 
-<h2 align="center">⚡ Statistics ⚡</h2>
-<br>
+## ⚡ Contributions Graph ⚡
+
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/Durgeshwar-AI?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=50&animation_duration=3&animation_loop=true&theme=blue&widget_size=Small&dark=true&format=svg" alt="3D GitHub Contribution Chart" width="100%" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Durgeshwar-AI&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <br/>
-  
-[![Pavani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html,ejs,css&show_icons=true&hide_border=true&layout=compact)](https://github.com/pavani-n-hash)
+
+  <img width="410" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Durgeshwar-AI&count_private=true&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <a href="https://github.com/pavani-n-hash">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html,ejs,css&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
+
 </div>
 
-# 🏆 GitHub Trophies
-<img src="https://github-trophies.vercel.app/?username=Durgeshwar-AI&theme=onestar&no-frame=true" width="800"/>
+---
 
+## 🏆 GitHub Trophies
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Durgeshwar-AI&theme=onestar&no-frame=true" width="800" alt="GitHub Trophies" />
+</p>
 
-<h3 align="left">Holopin Badges</h3>
-<a href="https://www.holopin.io/@pavaninhash#">
-    <img src="(https://www.holopin.io/@pavaninhash#)" alt="An image of @pavaninhash# Holopin badges, which is a link to view their full Holopin profile">
-</a>
+---
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&locale=en&theme=radical" alt="Durgeshwar-AI" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgeshwar-AI&theme=radical" alt="Durgeshwar-AI" /></p>-->
+## 🎖 Holopin Badges
+
+<p align="left">
+  <a href="https://www.holopin.io/@pavaninhash">
+    <img src="https://holopin.me/pavaninhash" alt="Holopin Badges of @pavaninhash" />
+  </a>
+</p>
