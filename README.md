@@ -14,17 +14,17 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="![](https://komarev.com/ghpvc/?username=pavani-n-hash)" alt="Profile views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌍 From Chennai, Tamil Nadu.
+- 🌍 From Bangalore.
 - 💻 Passionate **web** developer & open‑source contributor.
 - 🚀 I enjoy building clean UIs and scalable full‑stack apps.
-- 📚 Always learning something new in JavaScript, TypeScript, and backend tech.
+- 📚 Always learning something new in backend tech and AI.
 
 ---
 
