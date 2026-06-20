@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px" alt="Hi" />
-</h1>
+</h1> 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
