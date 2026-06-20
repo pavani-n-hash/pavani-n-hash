@@ -127,5 +127,4 @@
  <a href="https://gssoc.girlscript.org/milestones" target="_blank">
 <img width="1080" height="1080" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/6e6d2aff-b712-466b-bc68-c8e947c43d2a" />
  </a>
- 
-</p>
+ </p>
