@@ -88,14 +88,22 @@
 
 ## 🎖 Contribution and holopin badges
 
-<p align="left">
-  <a href="https://www.holopin.io/@pavaninhash">
-    <img src="https://holopin.me/pavaninhash" alt="Holopin Badges of @pavaninhash" />
+## 🎖 Contribution and holopin badges
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+
+  <!-- Holopin badge board -->
+  <a href="https://www.holopin.io/@pavaninhash" target="_blank">
+    <img src="https://holopin.me/pavaninhash" alt="Holopin Badges of @pavaninhash" height="120" />
   </a>
-  
-  <a href="https://gssoc.girlscript.org/milestones">
-    <img src="https://github.com/user-attachments/assets/4132d8e9-436c-42a0-a1bb-2226ca795ef8" alt="gssoc-badge-role_contributor" />
-  <img alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/d6904b40-c7f5-4433-b993-43620d2736c4" />
+
+  <!-- GSSoC badges -->
+  <a href="https://gssoc.girlscript.org/milestones" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4132d8e9-436c-42a0-a1bb-2226ca795ef8" alt="gssoc-badge-role_contributor" height="120" />
+  </a>
+
+  <a href="https://gssoc.girlscript.org/milestones" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d6904b40-c7f5-4433-b993-43620d2736c4" alt="gssoc-badge-rising_star" height="120" />
   </a>
 
 </p>
