@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -84,6 +84,7 @@
   <img src="https://github-trophies.vercel.app/?username=Durgeshwar-AI&theme=onestar&no-frame=true" width="800" alt="GitHub Trophies" />
 </p>
 
+-->
 ---
 
 ## 🎖 Contribution and holopin badges
