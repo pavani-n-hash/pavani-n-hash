@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-- 🌍 From Bangalore.
+- 🌍 From Bangalore .
 - 💻 Passionate **web** developer & open‑source contributor.
 - 🚀 I enjoy building clean UIs and scalable full‑stack apps.
 - 📚 Always learning something new in backend tech and AI.
