@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<p align="left">
+<!--  <p align="left">
   <img src="![](https://komarev.com/ghpvc/?username=pavani-n-hash)" alt="Profile views" />
-</p>
+</p> -->
 
 ---
 
@@ -31,7 +31,7 @@
 ## 🧩 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,py,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,py" alt="Languages" />
 </p>
 
 ---
