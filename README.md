@@ -40,8 +40,8 @@
 <br/><br/>
 
 <h3 align="left">Holopin Badges</h3>
-<a href="https://holopin.io/@durgeshwarai">
-    <img src="https://holopin.me/durgeshwarai" alt="An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile">
+<a href="https://www.holopin.io/@pavaninhash#">
+    <img src="(https://www.holopin.io/@pavaninhash#)" alt="An image of @pavaninhash# Holopin badges, which is a link to view their full Holopin profile">
 </a>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&locale=en&theme=radical" alt="Durgeshwar-AI" /></p>
