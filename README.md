@@ -92,7 +92,8 @@
 
   <!-- Holopin badge board -->
   <a href="https://www.holopin.io/@pavaninhash" target="_blank">
-    <img src="https://holopin.me/pavaninhash" alt="Holopin Badges of @pavaninhash" height="120" />
+  <img alt="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" src="https://github.com/user-attachments/assets/26ad43f0-9f99-422d-8cf4-1707c0c8834d" 
+ height="120" />
   </a>
 
   <!-- GSSoC badges – row 1 -->
