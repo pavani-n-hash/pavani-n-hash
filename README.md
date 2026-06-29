@@ -19,7 +19,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Mee
 
 - 🌍 From Bangalore .
 - 💻 Passionate **web** developer & open‑source contributor.
@@ -87,7 +87,7 @@
 -->
 ---
 
-## 🎖 Contribution and holopin badges
+## 🎖 Contribution and holopin badges  
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
