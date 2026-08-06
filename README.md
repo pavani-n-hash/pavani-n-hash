@@ -5,13 +5,13 @@
 
 <h1 align="center">
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px" alt="Hi" />
-</h1> 
+</h1>  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=80&lines=I+am+Pavani+Choudary;Web+Developer;Open+Source+Enthusiast;Coding+Everyday " alt="Typing SVG" />
   </a>
-</p>
+</p> 
 
 <!--  <p align="left">
   <img src="![](https://komarev.com/ghpvc/?username=pavani-n-hash)" alt="Profile views" />
