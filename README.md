@@ -131,4 +131,9 @@
     <img src="https://github.com/user-attachments/assets/6e6d2aff-b712-466b-bc68-c8e947c43d2a" alt="gssoc-badge-bounty_hunter" height="120" />
   </a>
 
+   <a href="https://gssoc.girlscript.org/milestones" target="_blank">
+    <img src="C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-12 210858.png" alt="gssoc-badge-bounty_hunter" height="120" />
+  </a>
+
+
 </p>
