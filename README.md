@@ -131,9 +131,14 @@
     <img src="https://github.com/user-attachments/assets/6e6d2aff-b712-466b-bc68-c8e947c43d2a" alt="gssoc-badge-bounty_hunter" height="120" />
   </a>
 
+
+   <a href="https://gssoc.girlscript.org/milestones" target="_blank">
+    <img src="https://github.com/user-attachments/assets/aa78386a-f08d-4094-9912-7ff9c63cde1a" alt="GSSoC'26 Contributor
+" height="100" />
+
    <a href="https://gssoc.girlscript.org/milestones" target="_blank">
     <img src="https://github.com/user-attachments/assets/374a0feb-e318-4b83-877c-f825f5eea363"  alt="GSSoC'26 Contributor
-" height="120" />
+" height="100" />
   </a>
 
 
