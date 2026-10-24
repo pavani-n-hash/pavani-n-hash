@@ -87,7 +87,7 @@
 -->
 ---
 
-## 🎖 Contribution and holopin badges  
+## 🎖 Contribution and badges  
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
