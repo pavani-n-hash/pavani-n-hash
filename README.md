@@ -31,7 +31,7 @@
 ## 🧩 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,py" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,py" alt="Languages" /> 
 </p>
 
 ---
